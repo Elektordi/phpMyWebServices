@@ -1,0 +1,29 @@
+*************
+* ALPHA 0.4 *
+*************
+
+- Main index.php now present.
+- Custom types supported
+- Global disco is now possible
+- A new test service: TestMySQL
+- A new method for Test1: SampleUserInfo (for demonstrating custom types)
+- "tempuri.org" warning removed !
+- auth and include systems added... (see Test1)
+
+*************
+* ALPHA 0.3 *
+*************
+
+FIRST RELEASE !!!
+
+
+- Supports simple webservices...
+- Only local discovery (on the webservice page)
+- Only string, int and boolean supported.
+- Return can be void.
+- A test service with two methods
+- Strange things when you have a error in your code...
+- No main index.php...
+
+/!\ There is a little problem with the language: the web UI is in french for the moment...
+And about the comments, there are some in french but the most are in english !

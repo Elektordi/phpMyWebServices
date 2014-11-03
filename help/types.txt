@@ -1,0 +1,9 @@
+List of types and .NET equivalents:
+
+"" -> No return: (C#) void (VB) [like sub]
+"string" -> (C# & VB) string
+"int" -> (C# & VB) int32
+"bool" -> (C# & VB) bool [true->true, false->false ;-)]
+"_[custom type]" -> a custom type...
+
+NEVER MAKE LOOPS WITH CUSTOM TYPES !!!!!
